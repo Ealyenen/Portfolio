@@ -1,1 +1,1 @@
-.sircle-promo-about{width:750px;height:750px;background-color:rgba(44,54,80,.5);border-radius:50%;position:absolute;bottom:-375px;left:50%;transform:translateX(-50%)}
+.sircle-promo-about{width:750px;height:750px;background-color:rgba(44,54,80,.5);border-radius:50%;position:absolute;bottom:0;left:50%;transform:translate(-50%,50%);z-index:4}@media (max-width:1000px){.sircle-promo-about{width:600px;height:600px}}@media (max-width:800px){.sircle-promo-about{width:280px;height:280px;background-color:rgba(213,169,149,.5)}}
