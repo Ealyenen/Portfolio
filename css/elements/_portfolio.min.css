@@ -1,1 +1,1 @@
-.portfolio{height:1000px}
+.portfolio{height:600px;background-color:var(--dark-violet);padding:80px 0 130px 0;position:relative}.portfolio:before{content:"";background-color:var(--light-beige);opacity:.8;width:410px;height:410px;position:absolute;top:-110px;right:-205px;border-radius:50%}
