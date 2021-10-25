@@ -6,3 +6,8 @@ eclipse.addEventListener('click', () => {
     background.classList.toggle('black-back-active')
     moon.classList.toggle('mobile-menu-active')
 });
+
+background.addEventListener('click', () => {
+    background.classList.remove('black-back-active')
+    moon.classList.remove('mobile-menu-active')
+});
